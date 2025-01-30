@@ -1,6 +1,6 @@
 ## HS-ESS1-1
 
-Develop a model based on evidence to illustrate the life span of the sun and the role of nuclear fusion in the sun's core to release energy in the form of radiation.
+Develop a model based on evidence to illustrate the life span of the sun and the role of nuclear fusion in the sun's core to release energy that eventually reaches Earth in the form of radiation, supplying Earth with energy.
 
 ## HS-ESS1-2
 
@@ -28,19 +28,19 @@ Develop a model to illustrate how Earth's internal and surface processes operate
 
 ## HS-ESS2-2
 
-Analyze geoscience data to make the claim that one change to Earth's surface can create feedbacks that cause changes to other Earth systems.
+Analyze geoscience data to make the claim that one change to Earth's surface can create feedback that causes changes to other Earth systems.
 
 ## HS-ESS2-3
 
-Develop a model based on evidence of Earth's interior to describe the cycling of matter by thermal convection.
+Develop a model based on evidence of Earth's interior to and explain the cycling of matter magma by thermal convection.
 
 ## HS-ESS2-4
 
-Use a model to describe how variations in the flow of energy into and out of Earth's systems result in changes in climate.
+Use a model to describe how variations in the flow of energy into and out of Earth's systems result in changes in climate trends.
 
 ## HS-ESS2-5
 
-Plan and conduct an investigation of the properties of water and its effects on Earth materials and surface processes.
+Plan and conduct an investigation of the properties of fluids (i.e. wind and water) and their effects on Earth materials and surface processes.
 
 ## HS-ESS2-6
 
@@ -48,11 +48,11 @@ Develop a quantitative model to describe the cycling of carbon among the hydrosp
 
 ## HS-ESS2-7
 
-Construct an argument based on evidence about the simultaneous coevolution of Earth's systems and life on Earth.
+Construct an argument based on evidence about the simultaneous change in Earth's systems and life on Earth.
 
 ## HS-ESS3-1
 
-Construct an explanation based on evidence for how the availability of natural resources, occurrence of natural hazards, and changes in climate have influenced human activity.
+Construct an explanation based on evidence for how the availability of natural resources, occurrence of natural hazards, and climate trends have influenced human civilizations.
 
 ## HS-ESS3-2
 
@@ -64,15 +64,15 @@ Create a computational simulation to illustrate the relationships among manageme
 
 ## HS-ESS3-4
 
-Evaluate or refine a technological solution that reduces impacts of human activities on natural systems.
+Evaluate or refine a technological solution that reduces impacts on natural systems.
 
 ## HS-ESS3-5
 
-Analyze geoscience data and the results from global climate models to make an evidence-based forecast of the current rate of global or regional climate change and associated future impacts to Earth systems.
+Analyze geoscience data and the results from global climate models to make an evidence-based forecast of the current rate of global or regional climate trends and associated future impacts to Earth systems.
 
 ## HS-ESS3-6
 
-Use a computational representation to illustrate the relationships among Earth systems and how those relationships are being modified due to human activity.
+Use a computational representation to illustrate the relationships among Earth systems and how those relationships are being modified over time.
 
 ## HS-ETS1-1
 
@@ -84,7 +84,7 @@ Design a solution to a complex real-world problem by breaking it down into small
 
 ## HS-ETS1-3
 
-Evaluate a solution to a complex real-world problem based on prioritized criteria and trade-offs that account for a range of constraints, including cost, safety, reliability, and aesthetics as well as possible social, cultural, and environmental impacts.
+Evaluate a solution to a complex real-world problem based on prioritized criteria and trade-offs that account for a range of constraints, including cost, safety, reliability, and aesthetics, as well as possible social, cultural, and environmental impacts.
 
 ## HS-ETS1-4
 
@@ -144,7 +144,7 @@ Evaluate the claims, evidence, and reasoning that the complex interactions in ec
 
 ## HS-LS2-7
 
-Design, evaluate, and refine a solution for reducing the impacts of human activities on the environment and biodiversity.
+Design, evaluate, and refine a solution for increasing environmental sustainability and biodiversity.
 
 ## HS-LS2-8
 
@@ -164,11 +164,11 @@ Apply concepts of statistics and probability to explain the variation and distri
 
 ## HS-LS4-1
 
-Communicate scientific information that common ancestry and biological evolution are supported by multiple lines of empirical evidence.
+Communicate scientific information that common ancestry and biological change over time are supported by multiple lines of empirical evidence.
 
 ## HS-LS4-2
 
-Construct an explanation based on evidence that the process of evolution primarily results from four factors: (1) the potential for a species to increase in number, (2) the heritable genetic variation of individuals in a species due to mutation and sexual reproduction, (3) competition for limited resources, and (4) the proliferation of those organisms that are better able to survive and reproduce in the environment.
+Construct an explanation based on evidence that the process of biological change primarily results from four factors: (1) the potential for a species to increase in number, (2) the heritable genetic variation of individuals in a species due to mutation and sexual reproduction, (3) competition for limited resources, and (4) the proliferation of those organisms that are better able to survive and reproduce in the environment.
 
 ## HS-LS4-3
 
@@ -248,7 +248,7 @@ Create a computational model to calculate the change in the energy of one compon
 
 ## HS-PS3-2
 
-Develop and use models to illustrate that energy at the macroscopic scale can be accounted for as a combination of energy associated with the motions of particles (objects) and energy associated with the relative positions of particles (objects).
+Develop and use models to illustrate that energy at the macroscopic scale can be accounted for as a combination of energy associated with the motions of particles (objects) and energy associated with the relative position of particles (objects).
 
 ## HS-PS3-3
 
